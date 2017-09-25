@@ -1,0 +1,312 @@
+Portname	Portbeschreibung	Porttyp	Druckername
+TS402	PC390-W7:  PRN6	Schreibzugriff	
+TS396	Inactive TS Port	Schreibzugriff	
+TS395	Inactive TS Port	Schreibzugriff	
+TS394	Inactive TS Port	Schreibzugriff	
+TS392	Inactive TS Port	Schreibzugriff	
+TS391	Inactive TS Port	Schreibzugriff	
+TS390	Inactive TS Port	Schreibzugriff	
+TS389	Inactive TS Port	Schreibzugriff	
+TS388	Inactive TS Port	Schreibzugriff	
+TS387	Inactive TS Port	Schreibzugriff	
+TS386	Inactive TS Port	Schreibzugriff	
+TS385	Inactive TS Port	Schreibzugriff	
+TS384	Inactive TS Port	Schreibzugriff	
+TS351	Inactive TS Port	Schreibzugriff	
+TS350	Inactive TS Port	Schreibzugriff	
+TS349	Inactive TS Port	Schreibzugriff	
+TS348	Inactive TS Port	Schreibzugriff	
+TS347	Inactive TS Port	Schreibzugriff	
+TS346	Inactive TS Port	Schreibzugriff	
+TS345	Inactive TS Port	Schreibzugriff	
+TS344	Inactive TS Port	Schreibzugriff	
+TS343	Inactive TS Port	Schreibzugriff	
+TS342	Inactive TS Port	Schreibzugriff	
+TS341	Inactive TS Port	Schreibzugriff	
+TS340	Inactive TS Port	Schreibzugriff	
+TS339	Inactive TS Port	Schreibzugriff	
+TS338	Inactive TS Port	Schreibzugriff	
+TS337	Inactive TS Port	Schreibzugriff	
+TS336	Inactive TS Port	Schreibzugriff	
+TS335	Inactive TS Port	Schreibzugriff	
+TS334	Inactive TS Port	Schreibzugriff	
+TS333	Inactive TS Port	Schreibzugriff	
+TS332	Inactive TS Port	Schreibzugriff	
+TS331	Inactive TS Port	Schreibzugriff	
+TS330	Inactive TS Port	Schreibzugriff	
+TS329	Inactive TS Port	Schreibzugriff	
+TS328	Inactive TS Port	Schreibzugriff	
+TS327	Inactive TS Port	Schreibzugriff	
+TS326	Inactive TS Port	Schreibzugriff	
+TS325	Inactive TS Port	Schreibzugriff	
+TS324	Inactive TS Port	Schreibzugriff	
+TS323	Inactive TS Port	Schreibzugriff	
+TS322	Inactive TS Port	Schreibzugriff	
+TS321	Inactive TS Port	Schreibzugriff	
+TS320	Inactive TS Port	Schreibzugriff	
+TS287	Inactive TS Port	Schreibzugriff	
+TS286	Inactive TS Port	Schreibzugriff	
+TS285	Inactive TS Port	Schreibzugriff	
+TS284	Inactive TS Port	Schreibzugriff	
+TS283	Inactive TS Port	Schreibzugriff	
+TS282	Inactive TS Port	Schreibzugriff	
+TS281	Inactive TS Port	Schreibzugriff	
+TS280	Inactive TS Port	Schreibzugriff	
+TS279	Inactive TS Port	Schreibzugriff	
+TS278	Inactive TS Port	Schreibzugriff	
+TS277	Inactive TS Port	Schreibzugriff	
+TS276	Inactive TS Port	Schreibzugriff	
+TS275	Inactive TS Port	Schreibzugriff	
+TS274	Inactive TS Port	Schreibzugriff	
+TS273	Inactive TS Port	Schreibzugriff	
+TS272	Inactive TS Port	Schreibzugriff	
+TS271	Inactive TS Port	Schreibzugriff	
+TS270	Inactive TS Port	Schreibzugriff	
+TS269	Inactive TS Port	Schreibzugriff	
+TS268	Inactive TS Port	Schreibzugriff	
+TS267	Inactive TS Port	Schreibzugriff	
+TS266	Inactive TS Port	Schreibzugriff	
+TS265	Inactive TS Port	Schreibzugriff	
+TS264	Inactive TS Port	Schreibzugriff	
+TS263	Inactive TS Port	Schreibzugriff	
+TS262	Inactive TS Port	Schreibzugriff	
+TS261	Inactive TS Port	Schreibzugriff	
+TS260	Inactive TS Port	Schreibzugriff	
+TS259	Inactive TS Port	Schreibzugriff	
+TS258	Inactive TS Port	Schreibzugriff	
+TS257	Inactive TS Port	Schreibzugriff	
+TS256	Inactive TS Port	Schreibzugriff	
+TS223	Inactive TS Port	Schreibzugriff	
+TS222	Inactive TS Port	Schreibzugriff	
+TS221	Inactive TS Port	Schreibzugriff	
+TS220	Inactive TS Port	Schreibzugriff	
+TS219	Inactive TS Port	Schreibzugriff	
+TS218	Inactive TS Port	Schreibzugriff	
+TS217	Inactive TS Port	Schreibzugriff	
+TS216	Inactive TS Port	Schreibzugriff	
+TS215	Inactive TS Port	Schreibzugriff	
+TS214	Inactive TS Port	Schreibzugriff	
+TS213	Inactive TS Port	Schreibzugriff	
+TS212	Inactive TS Port	Schreibzugriff	
+TS211	Inactive TS Port	Schreibzugriff	
+TS210	Inactive TS Port	Schreibzugriff	
+TS209	Inactive TS Port	Schreibzugriff	
+TS208	Inactive TS Port	Schreibzugriff	
+TS207	Inactive TS Port	Schreibzugriff	
+TS206	Inactive TS Port	Schreibzugriff	
+TS205	Inactive TS Port	Schreibzugriff	
+TS204	Inactive TS Port	Schreibzugriff	
+TS203	Inactive TS Port	Schreibzugriff	
+TS202	Inactive TS Port	Schreibzugriff	
+TS201	Inactive TS Port	Schreibzugriff	
+TS200	Inactive TS Port	Schreibzugriff	
+TS199	Inactive TS Port	Schreibzugriff	
+TS198	Inactive TS Port	Schreibzugriff	
+TS197	Inactive TS Port	Schreibzugriff	
+TS196	Inactive TS Port	Schreibzugriff	
+TS195	Inactive TS Port	Schreibzugriff	
+TS194	Inactive TS Port	Schreibzugriff	
+TS193	Inactive TS Port	Schreibzugriff	
+TS192	Inactive TS Port	Schreibzugriff	
+TS159	Inactive TS Port	Schreibzugriff	
+TS158	Inactive TS Port	Schreibzugriff	
+TS157	Inactive TS Port	Schreibzugriff	
+TS156	Inactive TS Port	Schreibzugriff	
+TS155	Inactive TS Port	Schreibzugriff	
+TS154	Inactive TS Port	Schreibzugriff	
+TS153	Inactive TS Port	Schreibzugriff	
+TS152	Inactive TS Port	Schreibzugriff	
+TS151	Inactive TS Port	Schreibzugriff	
+TS150	Inactive TS Port	Schreibzugriff	
+TS149	Inactive TS Port	Schreibzugriff	
+TS148	Inactive TS Port	Schreibzugriff	
+TS147	Inactive TS Port	Schreibzugriff	
+TS146	Inactive TS Port	Schreibzugriff	
+TS145	Inactive TS Port	Schreibzugriff	
+TS144	Inactive TS Port	Schreibzugriff	
+TS143	Inactive TS Port	Schreibzugriff	
+TS142	Inactive TS Port	Schreibzugriff	
+TS141	Inactive TS Port	Schreibzugriff	
+TS140	Inactive TS Port	Schreibzugriff	
+TS139	Inactive TS Port	Schreibzugriff	
+TS138	Inactive TS Port	Schreibzugriff	
+TS137	Inactive TS Port	Schreibzugriff	
+TS136	Inactive TS Port	Schreibzugriff	
+TS135	Inactive TS Port	Schreibzugriff	
+TS134	Inactive TS Port	Schreibzugriff	
+TS133	Inactive TS Port	Schreibzugriff	
+TS132	Inactive TS Port	Schreibzugriff	
+TS131	Inactive TS Port	Schreibzugriff	
+TS130	Inactive TS Port	Schreibzugriff	
+TS129	Inactive TS Port	Schreibzugriff	
+TS128	Inactive TS Port	Schreibzugriff	
+TS095	Inactive TS Port	Schreibzugriff	
+TS094	Inactive TS Port	Schreibzugriff	
+TS093	Inactive TS Port	Schreibzugriff	
+TS092	Inactive TS Port	Schreibzugriff	
+TS091	Inactive TS Port	Schreibzugriff	
+TS090	Inactive TS Port	Schreibzugriff	
+TS089	Inactive TS Port	Schreibzugriff	
+TS088	Inactive TS Port	Schreibzugriff	
+TS087	Inactive TS Port	Schreibzugriff	
+TS086	Inactive TS Port	Schreibzugriff	
+TS085	Inactive TS Port	Schreibzugriff	
+TS084	Inactive TS Port	Schreibzugriff	
+TS083	Inactive TS Port	Schreibzugriff	
+TS082	Inactive TS Port	Schreibzugriff	
+TS081	Inactive TS Port	Schreibzugriff	
+TS080	Inactive TS Port	Schreibzugriff	
+TS079	Inactive TS Port	Schreibzugriff	
+TS078	Inactive TS Port	Schreibzugriff	
+TS077	Inactive TS Port	Schreibzugriff	
+TS076	Inactive TS Port	Schreibzugriff	
+TS075	Inactive TS Port	Schreibzugriff	
+TS074	Inactive TS Port	Schreibzugriff	
+TS073	Inactive TS Port	Schreibzugriff	
+TS072	Inactive TS Port	Schreibzugriff	
+TS071	Inactive TS Port	Schreibzugriff	
+TS070	Inactive TS Port	Schreibzugriff	
+TS069	Inactive TS Port	Schreibzugriff	
+TS068	Inactive TS Port	Schreibzugriff	
+TS067	Inactive TS Port	Schreibzugriff	
+TS066	Inactive TS Port	Schreibzugriff	
+TS065	Inactive TS Port	Schreibzugriff	
+TS064	Inactive TS Port	Schreibzugriff	
+TS031	Inactive TS Port	Schreibzugriff	
+TS030	Inactive TS Port	Schreibzugriff	
+TS029	Inactive TS Port	Schreibzugriff	
+TS028	Inactive TS Port	Schreibzugriff	
+TS027	Inactive TS Port	Schreibzugriff	
+TS026	Inactive TS Port	Schreibzugriff	
+TS025	Inactive TS Port	Schreibzugriff	
+TS024	Inactive TS Port	Schreibzugriff	
+TS023	Inactive TS Port	Schreibzugriff	
+TS022	Inactive TS Port	Schreibzugriff	
+TS021	Inactive TS Port	Schreibzugriff	
+TS020	Inactive TS Port	Schreibzugriff	
+TS019	Inactive TS Port	Schreibzugriff	
+TS018	Inactive TS Port	Schreibzugriff	
+TS017	Inactive TS Port	Schreibzugriff	
+TS016	Inactive TS Port	Schreibzugriff	
+TS015	Inactive TS Port	Schreibzugriff	
+TS014	Inactive TS Port	Schreibzugriff	
+TS013	Inactive TS Port	Schreibzugriff	
+TS012	Inactive TS Port	Schreibzugriff	
+TS011	Inactive TS Port	Schreibzugriff	
+TS010	Inactive TS Port	Schreibzugriff	
+TS009	Inactive TS Port	Schreibzugriff	
+TS008	Inactive TS Port	Schreibzugriff	
+TS007	Inactive TS Port	Schreibzugriff	
+TS006	Inactive TS Port	Schreibzugriff	
+TS005	Inactive TS Port	Schreibzugriff	
+TS004	Inactive TS Port	Schreibzugriff	
+TS003	Inactive TS Port	Schreibzugriff	
+TS002	Inactive TS Port	Schreibzugriff	
+TS001	Inactive TS Port	Schreibzugriff	
+10.0.20.102	Standard-TCP/IP-Port	Schreibzugriff	
+10.0.20.104	Standard-TCP/IP-Port	Schreibzugriff	
+10.0.20.105	Standard-TCP/IP-Port	Schreibzugriff	
+10.0.20.105_1	Standard-TCP/IP-Port	Schreibzugriff	
+10.0.20.106_1	Standard-TCP/IP-Port	Schreibzugriff	
+10.0.20.109_1	Standard-TCP/IP-Port	Schreibzugriff	
+10.0.20.109_Fach2	Standard-TCP/IP-Port	Schreibzugriff	
+10.0.20.114	Standard-TCP/IP-Port	Schreibzugriff	
+10.0.20.119	Standard-TCP/IP-Port	Schreibzugriff	
+10.0.51.20	Standard-TCP/IP-Port	Schreibzugriff	
+10.0.58.108	Standard-TCP/IP-Port	Schreibzugriff	
+190.190.190.190	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.171	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.172_1	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.174	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.174_1	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.207	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.207_1	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.207_2	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.210_1	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.211_1	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.222	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.223	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.223_1	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.223_2	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.223_3	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.227	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.228	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.234	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.56	Standard-TCP/IP-Port	Schreibzugriff	
+IP_192.168.131.173	Standard-TCP/IP-Port	Schreibzugriff	
+192.168.131.31	Standard-TCP/IP-Port	Schreibzugriff	
+pdfcmon	PDFCreator Port	Umgeleitet	
+COM1:	Lokaler Anschluss	Schreibzugriff	
+COM2:	Lokaler Anschluss	Schreibzugriff	
+COM3:	Lokaler Anschluss	Schreibzugriff	
+COM4:	Lokaler Anschluss	Schreibzugriff	
+LPT2:	Lokaler Anschluss	Schreibzugriff	
+LPT3:	Lokaler Anschluss	Schreibzugriff	
+TS399	Inactive TS Port	Schreibzugriff	
+TS397	Inactive TS Port	Schreibzugriff	
+TS393	Inactive TS Port	Schreibzugriff	
+TS406	PC390-W7:  PRN2	Schreibzugriff	
+TS405	PC390-W7:  PRN3	Schreibzugriff	
+192.168.131.231	Standard-TCP/IP-Port	Schreibzugriff	1030WKZB
+192.168.131.217	Standard-TCP/IP-Port	Schreibzugriff	1350Lag
+192.168.131.204	Standard-TCP/IP-Port	Schreibzugriff	2000Eink
+10.0.20.111	Standard-TCP/IP-Port	Schreibzugriff	410Haus
+192.168.131.219	Standard-TCP/IP-Port	Schreibzugriff	410Messraum
+192.168.131.211	Standard-TCP/IP-Port	Schreibzugriff	8100AV1
+192.168.131.212	Standard-TCP/IP-Port	Schreibzugriff	8100AV2
+FILE:	Lokaler Anschluss	Schreibzugriff	_2000Meis,ZZZZEDV-1
+192.168.131.214	Standard-TCP/IP-Port	Schreibzugriff	AV3
+10.0.20.121	Standard-TCP/IP-Port	Schreibzugriff	AV_01_1,FiBu_BizHub,BH_01_1
+192.168.131.170	Standard-TCP/IP-Port	Schreibzugriff	AV_BizHub250 (192.168.131.170)
+192.168.131.206	Standard-TCP/IP-Port	Schreibzugriff	BH_02_1
+10.0.20.124	Standard-TCP/IP-Port	Schreibzugriff	BizHub_Messraum
+IP_10.0.20.115	Standard-TCP/IP-Port	Schreibzugriff	Brother MFC-J6910DW Printer
+10.0.20.107	Standard-TCP/IP-Port	Schreibzugriff	Brother PCL5e Driver
+192.168.131.230	Standard-TCP/IP-Port	Schreibzugriff	Controlling_FS_1030D,1030INST
+10.0.20.106	Standard-TCP/IP-Port	Schreibzugriff	EDV-Brother6510
+10.0.20.101	Standard-TCP/IP-Port	Schreibzugriff	EDV_HP2800 (10.0.20.101)
+192.168.131.173	Standard-TCP/IP-Port	Schreibzugriff	Einkauf_BizHub
+10.0.20.128	Standard-TCP/IP-Port	Schreibzugriff	EK_01_1
+TS400	Inactive TS Port	Schreibzugriff	
+TS404	PC390-W7:  PRN5	Schreibzugriff	Fax (umgeleitet 7)
+TS403	PC390-W7:  PRN4	Schreibzugriff	FreePDF (umgeleitet 7)
+10.0.20.115	Standard-TCP/IP-Port	Schreibzugriff	GF1
+192.168.131.226	Standard-TCP/IP-Port	Schreibzugriff	HP_LaserJet_1200
+192.168.131.208	Standard-TCP/IP-Port	Schreibzugriff	Instandhaltung_SP410DN,410Maschbau
+192.168.131.39	Standard-TCP/IP-Port	Schreibzugriff	IS_01_1
+192.168.131.34	Standard-TCP/IP-Port	Schreibzugriff	IS_02_1,Vertrieb_BizHub
+10.0.20.126	Standard-TCP/IP-Port	Schreibzugriff	IT_01_1
+TS401	PC390-W7:  PRN8	Schreibzugriff	IT_01_1 auf GMA-PRINT (umgeleitet 7)
+192.168.131.172	Standard-TCP/IP-Port	Schreibzugriff	KONICA MINOLTA C650/C550/C451(6.3.0.... PCL (192.168.131.172) UPD
+10.0.20.109	Standard-TCP/IP-Port	Schreibzugriff	Konstruktion_BizHub
+TS398	PC390-W7:  PRN7	Schreibzugriff	Konstruktion_BizHub auf gma-print (umgeleitet 7)
+10.0.20.108_1	Standard-TCP/IP-Port	Schreibzugriff	Konstruktion_Brother
+10.0.20.112	Standard-TCP/IP-Port	Schreibzugriff	Konstruktion_Kyocera
+10.0.20.110	Standard-TCP/IP-Port	Schreibzugriff	Konstruktion_PlotterCanon
+10.0.20.113_PW300_WPD2	Standard-TCP/IP-Port	Schreibzugriff	Konstruktion_PlotterOce
+LPT1:	Lokaler Anschluss	Schreibzugriff	Lexmark T650
+10.0.20.103	Standard-TCP/IP-Port	Schreibzugriff	Marketing_HP2320 (10.0.20.103)
+192.168.131.203	Standard-TCP/IP-Port	Schreibzugriff	MB_01_1
+XPSPort:	Lokaler Anschluss	Schreibzugriff	Microsoft XPS Document Writer
+10.0.20.130	Standard-TCP/IP-Port	Schreibzugriff	MR_01_1
+10.0.20.127	Standard-TCP/IP-Port	Schreibzugriff	MR_01_1_alt
+192.168.131.215	Standard-TCP/IP-Port	Schreibzugriff	SamsMeis
+192.168.131.150	Standard-TCP/IP-Port	Schreibzugriff	SCX-5835FN
+10.0.20.105_2	Standard-TCP/IP-Port	Schreibzugriff	Sekretariat
+10.0.20.118	Standard-TCP/IP-Port	Schreibzugriff	T620Aus
+192.168.131.222_1	Standard-TCP/IP-Port	Schreibzugriff	Versand1F1
+192.168.131.222_2	Standard-TCP/IP-Port	Schreibzugriff	Versand1F2
+192.168.131.222_3	Standard-TCP/IP-Port	Schreibzugriff	Versand1F3
+10.0.20.117	Standard-TCP/IP-Port	Schreibzugriff	Versand2F1
+10.0.20.117_1	Standard-TCP/IP-Port	Schreibzugriff	Versand2F2
+10.0.20.117_2	Standard-TCP/IP-Port	Schreibzugriff	Versand2F3
+10.0.20.123	Standard-TCP/IP-Port	Schreibzugriff	Versand_410
+10.0.20.122	Standard-TCP/IP-Port	Schreibzugriff	Versand_Lexmark466,LexVerA5
+192.168.131.207_3	Standard-TCP/IP-Port	Schreibzugriff	Versand_Ricoh410
+192.168.131.228_1	Standard-TCP/IP-Port	Schreibzugriff	Vertrieb_6970DN
+10.0.20.129	Standard-TCP/IP-Port	Schreibzugriff	VS_01_1
+192.168.131.210	Standard-TCP/IP-Port	Schreibzugriff	VT_01_1,Vertrieb_C820DN
+192.168.131.205	Standard-TCP/IP-Port	Schreibzugriff	WKZB_2000
+LAN_192.168.131.213	Advanced Port Monitor	Schreibzugriff	ZDesigner LP 2844-Z
+192.168.131.213	Standard-TCP/IP-Port	Schreibzugriff	Zebra
+LAN_10.0.20.120	Advanced Port Monitor	Schreibzugriff	ZebraVersand
